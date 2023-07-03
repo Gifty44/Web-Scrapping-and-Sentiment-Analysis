@@ -1,16 +1,8 @@
 # Stock-Web-Scrapping-and-Sentiment-Analysis
 
-A sentiment analysis was carried out on the stock news. I sourced for data by scrapping a website on stock, https://finviz.com/. After the sentiment analysis, i created a visualization to show the average scores on each news for each day.
+The objective of this project is to carry out a sentiment analysis on the stock market news of some stocks, which are: Apple, Google and Telsa, using Vader from the Natural Language Toolkit. For this we will first get our data by scrapping the web containing stock information, which on this case is from https://finviz.com/.
+After getting the data, we have to manipulate and store the data in a dataframe in a way we can carry out our sentiment analysis. Looking at the compound score from the sentiment analysis, which is the average score gotten from the positive and negative score of a text and it ranges from -1 to 1. 
 
-The first thing to do before scrapping the data, I imported the necessary libraries i will be using to carry out the project.
+Using a graphical tool to show the average score overtime on each stock news 
 
-## Importing Libraries
-from urllib.request import urlopen, Request
 
-from bs4 import BeautifulSoup
-
-from nltk.sentiment.vader import SentimentIntensityAnalyzer
-
-import pandas as pd
-
-import matplotlib.pyplot as plt
