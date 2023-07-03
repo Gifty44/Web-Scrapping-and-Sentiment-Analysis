@@ -6,7 +6,11 @@ The first thing to do before scrapping the data, I imported the necessary librar
 
 ## Importing Libraries
 from urllib.request import urlopen, Request
+
 from bs4 import BeautifulSoup
+
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
+
 import pandas as pd
+
 import matplotlib.pyplot as plt
