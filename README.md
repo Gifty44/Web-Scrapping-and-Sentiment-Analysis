@@ -12,7 +12,7 @@ After analyzing the sentiment scores extracted from Finviz.com, we have represen
 
 Positive sentiment is represented by higher scores, negative sentiment with lower scores, and neutral sentiment with scores close to zero. The visual representation of the sentiment trend allows for easier interpretation and identification of notable shifts or patterns in investor sentiment, gauging the impact of various events or announcements on sentiment, and assessing the effectiveness of your communication and engagement strategies.
 
-In the bar plot, we can see that Amazon has a consistent postive sentiment associated with it's stock over the date interval in this analysis compare to Apple which have a positive and negative sentiment. Google has a positive sentiment but not as high as Amazon but it can be seen that on the 3/07/2023 it has the highest among the rest
+In the bar plot, we can see that Amazon has a consistent postive sentiment associated with it's stock over the date interval in this analysis compare to Apple which have a positive and negative sentiment. Google has a positive sentiment but not as high as Amazon but it can be seen that on the 3/07/2023 it has the highest among the rest. There are days where some stock don't have news. 
 
 Recommendations:
 Based on the findings of this sentiment analysis report, we suggest the following actions to enhance the sentiment surrounding the companies stock:
