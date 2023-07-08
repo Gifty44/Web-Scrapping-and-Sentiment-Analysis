@@ -15,6 +15,7 @@ Positive sentiment is represented by higher scores, negative sentiment with lowe
 In the bar plot, we can see that Amazon has a consistent postive sentiment associated with it's stock over the date interval in this analysis compare to Apple which have a positive and negative sentiment. Google has a positive sentiment but not as high as Amazon but it can be seen that on the 3/07/2023 it has the highest among the rest. There are days where some stock don't have news. 
 
 Recommendations:
+
 Based on the findings of this sentiment analysis report, we suggest the following actions to enhance the sentiment surrounding the companies stock:
 
 Identify Key Influencers: Identify influential sources and individuals driving sentiment, such as influential analysts, industry experts, or key social media accounts. Engage with them strategically to shape positive sentiment and counter any negative sentiment by providing comprehensive and reliable information, the company can shape the narrative and counter any potential misinformation.
