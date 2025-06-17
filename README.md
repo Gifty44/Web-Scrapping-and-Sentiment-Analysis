@@ -8,6 +8,9 @@ N.B: The compound score considers both the positive and negative sentiments expr
 
 Finding:
 
+![sent_img](https://github.com/Gifty44/Web-Scrapping-and-Sentiment-Analysis/blob/b8ee7d81f3fce5057bbb64c72eb7f709bab38b42/sent_img.png?raw=true)
+
+
 After analyzing the sentiment scores extracted from Finviz.com, we have represented the sentiment trend using a bar chart. The chart displays the average compound scores over time of the changing sentiment surrounding these company's stock.
 
 Positive sentiment is represented by higher scores, negative sentiment with lower scores, and neutral sentiment with scores close to zero. The visual representation of the sentiment trend allows for easier interpretation and identification of notable shifts or patterns in investor sentiment, gauging the impact of various events or announcements on sentiment, and assessing the effectiveness of your communication and engagement strategies.
