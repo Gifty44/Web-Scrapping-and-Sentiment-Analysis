@@ -2,7 +2,7 @@
 
 ### Subject: Sentiment Analysis Report - Average Compound Score Over Time (Extracted from Finviz.com) 
 
-This is a sentiment analysis report on the average compound score over time, extracted from https://finviz.com/. Using sentiment analysis techniques, this report provides insights into the sentiment trends surrounding some company's stock I looked into, which are Apple, Amazon and Google by analyzing the daily average compound scores of news articles and discussions based on their publication or generation dates .
+This is a sentiment analysis report on the average compound score over time, extracted from https://finviz.com/. Using sentiment analysis techniques, this report provides insights into the sentiment trends surrounding some company's stock I looked into, which were Apple, Amazon, and Google, by analyzing the daily average compound scores of news articles and discussions based on their publication or generation dates .
 
 N.B: The compound score considers both the positive and negative sentiments expressed in the text and provides an overall assessment of sentiment in a text, ranging from extremely negative to extremely positive, with 0 indicating neutral sentiment.
 
